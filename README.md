@@ -1,1 +1,1 @@
-# learn_microsoft
+# Repo to take notes on courses in learn.microsoft.com
